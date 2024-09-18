@@ -100,3 +100,7 @@ img{
     text-decoration: none;
     color: white;
 }
+
+#main-footer>h2{
+    color: white;
+}
